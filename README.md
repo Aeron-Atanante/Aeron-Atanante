@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/aeron-atanante/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🔹 Aspiring Cybersecurity Professional 
+
 I'm diving deep into cybersecurity, sharpening my skills in Linux, networking, and security tools. I enjoy working on security labs, CTF challenges, and learning about SOC operations.
 ## Objective
 
