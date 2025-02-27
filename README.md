@@ -49,5 +49,4 @@ I am a Production Analyst transitioning into cybersecurity, aiming to become a S
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Lab
