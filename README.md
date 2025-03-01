@@ -12,8 +12,8 @@ I am a Production Analyst transitioning into cybersecurity, aiming to become a S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization & Operating Systems          | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Detection Lab</a>|
-| Networking & Infrastructure | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Detection Lab</a>|
+| Virtualization & Operating Systems          | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Home Lab</a>|
+| Networking & Infrastructure | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Home Lab</a>|
 
 ## Tools
 
