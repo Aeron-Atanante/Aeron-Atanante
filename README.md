@@ -14,7 +14,9 @@ I am a Production Analyst transitioning into cybersecurity, aiming to become a S
 |-----------------------------------------------|----------------------------|
 | Virtualization & Operating Systems          | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Home Lab</a>|
 | Networking & Infrastructure | <a href="https://github.com/Aeron-Atanante/Detection-Lab">Home Lab</a>|
-
+| Network Traffic Analysis | <a href="https://github.com/Aeron-Atanante/Network-Traffic-Analysis">Network Traffic Analysis</a>|
+| Packet Analysis (Wireshark) | <a href="https://github.com/Aeron-Atanante/Network-Traffic-Analysis">Network Traffic Analysis</a>|
+| Threat Detection & Incident Response | <a href="https://github.com/Aeron-Atanante/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 ## Tools
 
 ### Network
@@ -44,3 +46,4 @@ I am a Production Analyst transitioning into cybersecurity, aiming to become a S
 
 ## Projects
 - Home Lab
+- Network Traffic Analysis
