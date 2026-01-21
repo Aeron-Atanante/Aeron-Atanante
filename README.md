@@ -7,7 +7,7 @@ I'm passionate about building secure systems. While actively transitioning into 
 ---
 
 ## 🎯 Objective  
-I am currently working as a **Production Analyst** while transitioning into the field of **cybersecurity**. My goal is to become a **SOC Analyst Tier 1** and build a long-term career in security operations and secure software engineering. I'm also open to **software engineering roles**, particularly those focused on backend development, automation, or systems programming.
+I am currently working as a **Network Engineer** while transitioning into the field of **cybersecurity**. My goal is to become a **SOC Analyst Tier 1** and build a long-term career in security operations and secure software engineering. I'm also open to **software engineering roles**, particularly those focused on backend development, automation, or systems programming.
 
 ---
 
